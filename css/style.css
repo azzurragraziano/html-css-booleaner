@@ -1,0 +1,19 @@
+/*reset*/
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container-logo
+{
+    background-image: url('../img/pattern.png');
+    background-color: ;
+    height: 150px;
+}
+
+#logo
+{
+width: 300px;
+margin top: 250px;
+}
