@@ -5,15 +5,29 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+/*header*/
 .container-logo
 {
     background-image: url('../img/pattern.png');
-    background-color: ;
+    background-color: #4ea0ff;
     height: 150px;
 }
 
 #logo
 {
-width: 300px;
-margin top: 250px;
+    width: 300px;
+    margin-top: 65px;
+}
+
+
+.autor
+{
+    color: #4ea0ff;
+}
+
+header p
+{
+    font-weight: bold;
+    color: grey;
 }
